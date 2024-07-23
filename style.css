@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(46, 182, 255);
+    color: black;
+    font-family: 'Times New Roman'
+}
+
+.title {
+    font-size: 200px;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 30px;
+}
