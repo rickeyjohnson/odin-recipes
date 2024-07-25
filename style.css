@@ -25,3 +25,11 @@ ul {
     padding: 0px;
     text-align: center;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+}
